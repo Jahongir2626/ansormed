@@ -212,12 +212,12 @@ body{
     margin-bottom: 80px;
 }
 
-.index-services{
+.index-service{
     display: flex;
     align-items: center;
 }
 
-.index-services-img{
+.index-service-img{
     width: 200px;
     height: 200px;
     margin-right: 64px;
@@ -226,17 +226,17 @@ body{
     box-shadow: 0px 12px 24px -8px rgba(0, 107, 116, 0.3);
 }
 
-.index-services-content{
+.index-service-content{
     width: 600px;
 }
 
-.index-services-title{
+.index-service-title{
     margin-top: 0;
     margin-bottom: 24px;
     color: #222;
 }
 
-.index-services-description{
+.index-service-description{
     margin: 0;
 }
 
